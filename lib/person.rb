@@ -71,11 +71,4 @@ attr_reader :name, :happiness, :hygiene
             "blah blah blah blah blah"
         end
     end
-
-
-
-    
-
-
-
 end
